@@ -1,0 +1,22 @@
+{
+  "name": "HHkeyboard",
+  "version": "0.1.0",
+  "summary": "A short description of HHkeyboard.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhenweicui/HHkeyboard",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "handoudoudou": "handd@qianbao.com"
+  },
+  "source": {
+    "git": "https://github.com/zhenweicui/HHkeyboard.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HHkeyboard/Classes/**/*"
+}

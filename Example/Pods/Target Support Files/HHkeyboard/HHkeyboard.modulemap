@@ -1,0 +1,6 @@
+framework module HHkeyboard {
+  umbrella header "HHkeyboard-umbrella.h"
+
+  export *
+  module * { export * }
+}
